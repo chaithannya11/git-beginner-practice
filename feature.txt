@@ -1,2 +1,3 @@
 git feature line 1
 git feature line 2
+git feature line 3
