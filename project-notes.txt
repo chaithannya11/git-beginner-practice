@@ -1,4 +1,0 @@
-git practice first line
-git practice second line
-git practice line third
-git practice fourth line
