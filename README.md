@@ -1,2 +1,5 @@
 git practice line 1
 git practice line 2
+
+git practice new line 3
+
